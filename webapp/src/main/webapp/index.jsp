@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to simple java project !!! </h1>
+<h1> Hello, Welcome to simple new java project !!! </h1>
